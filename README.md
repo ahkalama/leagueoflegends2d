@@ -4,7 +4,7 @@
 
 ## Çalıştırmak için;
 
-# ./so_long map1.ber
+# ./so_long  map1.ber
 
 
 

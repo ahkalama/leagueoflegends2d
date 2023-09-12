@@ -39,6 +39,7 @@ static int	recur_func(int **int_map, t_data *list, int x, int y)
 	return (0);
 }
 
+// gereksiz bir kod parçası silsende olur ama tabi print yazan her yeride kaldır.
 static void	print(t_data *list, int **int_map, int print_active)
 {
 	int	x;

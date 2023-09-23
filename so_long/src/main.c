@@ -16,7 +16,7 @@ int	main(int argc, char **argv)
 {
 	t_data	data;
 
-	map_control(argv, &data);
-	size_control(&data);
-	mlx_create(&data);
+	map_control(argv, &data); // map control yapılıyor
+	size_control(&data); // size control yapılıyor
+	mlx_create(&data); // mlx create yapılıyor basit ez
 }
